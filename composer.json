@@ -1,0 +1,13 @@
+{
+  "name": "tianhaopan/wpcomposer-theme",
+  "authors": [
+    {
+      "name": "Scofield Pan",
+      "email": "scofield@sitesuite.com.au"
+    }
+  ],
+  "type"    : "wordpress-theme", 
+  "require" : { 
+    "composer/installers": "~1.0"
+  }
+}
